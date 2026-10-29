@@ -90,3 +90,10 @@ papers cost proportionally more.
 - Text embedded inside figure images is not translated.
 - The layout follows the source paper; for right-to-left languages the column order
   is not mirrored.
+
+## License
+
+[MIT](LICENSE) © 2026 Alper Yılmaz. You are free to use, modify and share this project,
+including commercially, as long as the copyright notice and license are kept.
+Translations you make are yours; the copyright of the papers themselves stays with
+their authors and publishers.
