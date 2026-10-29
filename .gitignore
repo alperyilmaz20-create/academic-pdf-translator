@@ -1,0 +1,13 @@
+# Your API key - never commit it
+[Aa][Pp][Ii]_[Kk][Ee][Yy].[Tt][Xx][Tt]
+
+# Papers and translations (usually copyrighted)
+articles/*
+!articles/.gitkeep
+translations/
+
+# Local environment
+.venv/
+_tools/
+__pycache__/
+.DS_Store
